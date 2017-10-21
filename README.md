@@ -1,4 +1,7 @@
 # digital_garage
-Repository for digitization project Public Parking Garage at H-BRS, team 6.
 
-This is dlitte2s. Sadly I am currently the only person on my team. It looks like I'll have to do the project on my own. I'll still do my best!
+Status update.
+
+This is dlitte2s. I have been forcibly moved into Team 2, together with wkouja2s and zelarb2s. I have attempted to contact them both via email, so far only zelarb2s has responded. They said they were in. Further responses have not yet arrived.
+
+The old content of this file is no longer accurate and has been removed.
